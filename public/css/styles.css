@@ -1,0 +1,13 @@
+#contactdiv{
+    width: 400px;
+    float:left;
+}
+.customauth
+{
+    width: 400px;
+    background-color: darkgray;
+}
+h1{
+    font-size: 20px;
+    font-weight: bold;
+}
